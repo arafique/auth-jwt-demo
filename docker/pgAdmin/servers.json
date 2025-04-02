@@ -9,8 +9,7 @@
       "Username": "postgres",
       "PassFile": "/pgpass",
       "SSLMode": "prefer",
-      "Favorite": true,
-      "Co"
+      "Favorite": true
     }
   }
 }
